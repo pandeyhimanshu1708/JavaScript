@@ -15,3 +15,4 @@ strArr.map((curElem,index)=>{
 })
 
 console.log(text.match("ello"))
+
