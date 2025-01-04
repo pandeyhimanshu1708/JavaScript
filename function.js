@@ -6,6 +6,8 @@
 
 // console.log(sum(2,2));
 
+
+
 // function greet(){
 //     console.log("Hello JavaScript");
 // }
